@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5TmFb9/+w9HxaOcqw0TOxSyN2C7LDOMmmPYDwZRvvecnpzH0A6geOXyH3rUL/FzyNPa/Mu1qkXHZTvNk8jv3hg==",
+  "dgSpecHash": "YMVj6ngttgGhDzuzesPnz+pU9MliYw0NIUUeGEDQd2SqSwmmuED8A3cLI8tVTW0xBb4X4Y+Uav3X1zo6l9ChkQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kk355\\source\\repos\\TetrisConsoleApp\\TetrisConsoleApp.csproj",
+  "projectFilePath": "C:\\repos\\TetrisConsoleAppStudia\\TetrisConsoleApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
